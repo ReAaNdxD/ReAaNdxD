@@ -37,10 +37,4 @@ Esperienze universitarie in **Cyber Security** e solide competenze in **Java**.
 
 ---
 
-📈 **Statistiche GitHub**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReAaNdxD&show_icons=true&theme=radical)
-
----
-
 💬 Sempre interessato a nuove sfide e collaborazioni!
