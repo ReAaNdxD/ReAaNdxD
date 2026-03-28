@@ -20,7 +20,8 @@ Esperienze universitarie in **Cyber Security** e solide competenze in **Java**.
 
 ☁️ **Tecnologie Azure con cui lavoro**
 
-![APIM](https://img.shields.io/badge/APIMs-0078D7?style=for-the-badge&logo=apim&logoColor=white)
+![APIM](https://img.shields.io/badge/APIM-0078D7?style=for-the-badge&logo=apim&logoColor=white)
+![Application Insight](https://img.shields.io/badge/Application_Insight-0078D7?style=for-the-badge&logo=application-insight&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0078D7?style=for-the-badge&logo=azure-functions&logoColor=white)
 ![Storage Account](https://img.shields.io/badge/Storage_Account-0078D7?style=for-the-badge&logo=azure&logoColor=white)
 ![Service Bus](https://img.shields.io/badge/Service_Bus-0078D7?style=for-the-badge&logo=azure&logoColor=white)
