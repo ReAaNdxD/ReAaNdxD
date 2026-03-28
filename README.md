@@ -1,4 +1,4 @@
-# Ciao, sono [Andrea] 👋
+# Ciao, sono Andrea 👋
 
 Sviluppatore appassionato di **API, Cloud, automazione e sviluppo .NET**.  
 Esperienze universitarie in **Cyber Security** e solide competenze in **Java**.
@@ -9,11 +9,12 @@ Esperienze universitarie in **Cyber Security** e solide competenze in **Java**.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![APIOps](https://img.shields.io/badge/APIOps-007ACC?style=for-the-badge&logo=azure&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=fortinet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
